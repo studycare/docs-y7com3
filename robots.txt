@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-32mlqq.rexlive.live/sitemap.xml
